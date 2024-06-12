@@ -5,16 +5,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # How to run
 
 ## Download the files
-### npm install
-### npm i react-router-dom
+### `npm install`
+### `npm i react-router-dom`
 
-## cd backend
-### npm i bcryptjs@2.4.3
-### npm i cors@2.8.5
-### npm i express@4.19.2
-### npm i express-validator@7.1.0
-### npm i jsonwebtoken@9.0.2
-### npm i mongoose@6.0.3
+## `cd backend`
+### `npm i bcryptjs@2.4.3`
+### `npm i cors@2.8.5`
+### `npm i express@4.19.2`
+### `npm i express-validator@7.1.0`
+### `npm i jsonwebtoken@9.0.2`
+### `npm i mongoose@6.0.3`
 
 
 ## Available Scripts
